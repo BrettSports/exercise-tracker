@@ -1,0 +1,7 @@
+[API]
+APP_ID = your_app_id
+API_KEY = your_api_key
+
+[SHEETY]
+SHEETY_ENDPOINT = your_sheety_endpoint
+BEARER_TOKEN = your_bearer_token
